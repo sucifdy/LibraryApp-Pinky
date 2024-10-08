@@ -1,13 +1,6 @@
 {
   "books": [
     {
-      "title": "Laskar Pelangi",
-      "author": "Andrea Hirata",
-      "year": 2005,
-      "quantity": 3,
-      "id": 1
-    },
-    {
       "id": 2,
       "title": "Negeri 5 Menara",
       "author": "Ahmad Fuadi",
